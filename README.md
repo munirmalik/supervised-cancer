@@ -8,9 +8,11 @@ El reto es construir un clasificador de que sea capaz de reconocer si el lunar e
 El dataset esta distribuido de la siguiente forma:
 
  `data_train.txt` contiene el conjunto de entrenamiento formado por 448 muestras
+ 
  `labels_train.txt` contiene los labels asociados al conjunto de entrenamiento
 
  `data_test.txt` contiene el conjunto de test formado por 112 muestras
+ 
  `labels_test.txt` contiene los labels asociados al conjunto de test
 
 
