@@ -44,7 +44,7 @@ Para resolver este reto primero has un [fork](https://help.github.com/articles/f
 
 ```bash
 git clone https://github.com/{username}/supervised-cancer
-cd colomb-ia-emoDB
+cd supervised-cancer
 ```
 
 *Nota: reemplaza `{username}` con tu nombre de usuario de Github.*
