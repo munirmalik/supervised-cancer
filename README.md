@@ -75,3 +75,6 @@ jupyter notebook .
 ```
 y abrir el archivo `supervised-cancer.ipynb`.
 
+
+# Ranking
+Ver [Ranking](https://github.com/jcvasquezc/supervised-cancer/blob/master/ranking.md).
