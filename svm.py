@@ -18,7 +18,7 @@ labels_test=np.loadtxt("labels_test.txt")
 #features_test=data_test.read()
 #labels_test=labelstest.read()
 
-#make data sklearn-friendly
+#Data processing
 
 print len(features_train),len(labels_train),len(features_test),len(labels_test)
 
@@ -44,4 +44,3 @@ print "prediction time:", round(time()-t0, 3), "s"
 accuracy = clf.score(features_test,labels_test)
 print "Accuracy is", accuracy
 
-#Their accuracy
